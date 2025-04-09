@@ -14,7 +14,8 @@ Contributions:
 
 ---
 
-🎨 **[Mridul Kumar Gour](https://github.com/Mridul-Gour)** 
+🎨 **[Mridul Kumar Gour](https://github.com/Mridul-Gour)**    
+
 Role: Developer  
 Contributions:
 - Designed a responsive UI using React  

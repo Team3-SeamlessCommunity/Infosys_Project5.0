@@ -72,20 +72,14 @@ This project is licensed under the MIT License.
 ```bash
 git clone https://github.com/Team3-SeamlessCommunity/Infosys_Project5.0.git
 
-### 2️⃣ Backend Setup
+2️⃣ Backend Setup
 Navigate to the backend directory and run the Spring Boot server:
-
-bash
-Copy
-Edit
 cd backend
 mvn spring-boot:run
-Make sure MongoDB is running and configured correctly in your application.properties.
+💡 Make sure MongoDB is running and configured correctly in your application.properties file.
 
-### 3️⃣ Frontend Setup
+3️⃣ Frontend Setup
 Navigate to the frontend directory and run the development server:
 cd frontend
 npm install
 npm run dev
-
-

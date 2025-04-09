@@ -14,7 +14,7 @@ Contributions:
 
 ---
 
-🎨 **[Palak Choudhary](https://github.com/palak2564)**  
+🎨 **[Mridul Kumar Gour](https://github.com/Mridul-Gour)** 
 Role: Developer  
 Contributions:
 - Designed a responsive UI using React  
@@ -32,7 +32,7 @@ Contributions:
 
 ---
 
-🤖 **[Mridul Kumar Gour](https://github.com/Mridul-Gour)**  
+🤖 **[Palak Choudhary](https://github.com/palak2564)**  
 Role: Developer  
 Contributions:  
 - Designed and implemented secure payment gateway integration  

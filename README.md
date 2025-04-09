@@ -38,7 +38,7 @@ Seamless Community includes dedicated modules for:
 
 ---
 
-### 🎨 Milestone 2 – Developed by [Palak Choudhary](https://github.com/palak2564)
+### 🎨 Milestone 2 – Developed by [Mridul Kumar Gour](https://github.com/Mridul-Gour)
 - UI/UX for Login and Dashboard (React)
 - Event & Notification Views
 - Responsive design for all pages
@@ -52,7 +52,7 @@ Seamless Community includes dedicated modules for:
 
 ---
 
-### 💳 Milestone 4 – Developed by [Mridul Kumar Gour](https://github.com/Mridul-Gour)
+### 💳 Milestone 4 – Developed by [Palak Choudhary](https://github.com/palak2564) 
 - Payment gateway integration (e.g., Razorpay)
 - Maintenance, Electricity, and Water Bill Payment
 - Payment history and transaction status

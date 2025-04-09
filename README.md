@@ -57,7 +57,14 @@ Seamless Community includes dedicated modules for:
 - Maintenance, Electricity, and Water Bill Payment
 - Payment history and transaction status
 
+### 👥 Contributors
+📄 Please refer to the CONTRIBUTORS.md file for detailed roles and contributions.
+
+### 📄 License
+This project is licensed under the MIT License.
+
 ---
+
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
@@ -65,7 +72,7 @@ Seamless Community includes dedicated modules for:
 ```bash
 git clone https://github.com/Team3-SeamlessCommunity/Infosys_Project5.0.git
 
-2️⃣ Backend Setup
+### 2️⃣ Backend Setup
 Navigate to the backend directory and run the Spring Boot server:
 
 bash
@@ -75,16 +82,10 @@ cd backend
 mvn spring-boot:run
 Make sure MongoDB is running and configured correctly in your application.properties.
 
-3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 Navigate to the frontend directory and run the development server:
 cd frontend
 npm install
 npm run dev
-
-👥 Contributors
-📄 Please refer to the CONTRIBUTORS.md file for detailed roles and contributions.
-
-📄 License
-This project is licensed under the MIT License.
 
 
